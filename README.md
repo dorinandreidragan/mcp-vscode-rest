@@ -1,4 +1,4 @@
-# VSCode with MCP - Chatting with Your API
+# VSCode + MCP: Chat with Your API using GitHub Copilot
 
 ## TL;DR
 
